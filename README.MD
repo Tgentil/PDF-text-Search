@@ -1,5 +1,7 @@
 # PDF Text Search
 
+[![GitHub](https://img.shields.io/badge/Visit-My%20Profile-0891B2?style=flat-square&logo=github)](https://github.com/Tgentil)
+
 Este é um script em Python que permite buscar por um texto específico dentro de todos os arquivos PDF em uma pasta.
 
 ## Pré-requisitos
